@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "imageName": "shrapit_gaon_ka_sannata",
+    "imageName": "story/banner/shrapit_gaon_ka_sannata.webp",
     "title_en": "The Silence of the Cursed Village",
     "title_hi": "श्रापित गांव का सन्नाटा",
     "category": "Ghost",
@@ -11,7 +11,7 @@
  },
   {
      "id": 21,
-       "imageName": "witch_of_the_black_hill", 
+       "imageName": "story/banner/witch_of_the_black_hill.webp", 
        "title_en": "Witch Of The Black Hill", 
        "title_hi": "काली पहाड़ी की डायन", 
        "category": "Ghost", 
@@ -21,7 +21,7 @@
 }, 
   {
     "id": 3,
-    "imageName": "shmshan_ka_chaukidar",
+    "imageName": "story/banner/shmshan_ka_chaukidar.webp",
     "title_en": "The Crematorium Watchman",
     "title_hi": "श्मशान का चौकीदार",
     "category": "Ghost",
@@ -31,7 +31,7 @@
 },
   {
     "id": 4,
-    "imageName": "khooni_railway_track",
+    "imageName": "story/banner/khooni_railway_track.webp",
     "title_en": "Bloody Railway Track",
     "title_hi": "खूनी रेलवे ट्रैक",
     "category": "Ghost",
@@ -41,7 +41,7 @@
   },
   {
     "id": 5,
-    "imageName": "aatmaon_ka_hostel",
+    "imageName": "story/banner/aatmaon_ka_hostel.webp",
     "title_en": "Hostel of Souls",
     "title_hi": "आत्माओं का हॉस्टल",
     "category": "Ghost",
@@ -51,7 +51,7 @@
   },
   {
     "id": 6,
-    "imageName": "shapit_haveli_ka_aina",
+    "imageName": "story/banner/shapit_haveli_ka_aina.webp",
     "title_en": "Mirror of The Cursed Mansion",
     "title_hi": "शापित हवेली का आईना",
     "category": "Ghost",
@@ -61,7 +61,7 @@
  },
   {
     "id": 7,
-    "imageName": "atrupt_aatma_ka_sangeet",
+    "imageName": "story/banner/atrupt_aatma_ka_sangeet.webp",
     "title_en": "Music of The Unsatisfied Soul",
     "title_hi": "अतृप्त आत्मा का संगीत",
     "category": "Ghost",
@@ -71,7 +71,7 @@
   },
   {
     "id": 8,
-    "imageName": "kaali_nadi_ka_rahasya",
+    "imageName": "story/banner/kaali_nadi_ka_rahasya.webp",
     "title_en": "Mystery of Black River",
     "title_hi": "काली नदी का रहस्य",
     "category": "Ghost",
@@ -81,7 +81,7 @@
   },
   {
     "id": 9,
-    "imageName": "khandhar_ka_adrisya_mehmaan",
+    "imageName": "story/banner/khandhar_ka_adrisya_mehmaan.webp",
     "title_en": "Invisible Guest of Ruins",
     "title_hi": "खंडहर का अदृश्य मेहमान",
     "category": "Ghost",
@@ -91,7 +91,7 @@
  },
   {
     "id": 10,
-    "imageName": "antim_sanskar_ka_saya",
+    "imageName": "story/banner/antim_sanskar_ka_saya.webp",
     "title_en": "Shadow of Funeral",
     "title_hi": "अंतिम संस्कार का साया",
     "category": "Ghost",
@@ -101,7 +101,7 @@
   },
   {
     "id": 11,
-    "imageName": "pustakalay_ki_kaali_kitaab",
+    "imageName": "story/banner/pustakalay_ki_kaali_kitaab.webp",
     "title_en": "Black Book of Library",
     "title_hi": "पुस्तकालय की काली किताब",
     "category": "Ghost",
@@ -110,7 +110,7 @@
     "content_hi": "ईशान एक पीएचडी स्टूडेंट था जो मध्यकालीन इतिहास पर रिसर्च कर रहा था। उसे यूनिवर्सिटी की लाइब्रेरी के एक गुप्त तहखाने में एक ऐसी किताब मिली जिसका कवर इंसानी खाल जैसा महसूस होता था। उस किताब पर कोई नाम नहीं था, बस एक काला निशान बना था। जैसे ही ईशान ने उस किताब को खोला, लाइब्रेरी की सारी मोमबत्तियां एक साथ बुझ गईं। किताब के पन्ने अपने आप पलटने लगे और उनमें से एक अजीब सी काली रोशनी निकलने लगी। पन्नों पर लिखी भाषा ईशान की समझ से बाहर थी, लेकिन जैसे-जैसे वह उसे देखता गया, शब्द उसके दिमाग में खुद-ब-खुद गूंजने लगे। वह भाषा मरे हुए लोगों की थी। किताब में लिखा था कि जो कोई भी इस किताब के आखिरी पन्ने तक पहुँचेगा, वह इस दुनिया का नहीं रहेगा। ईशान को डर लगा, लेकिन उसकी जिज्ञासा उस पर हावी हो गई। वह हर रात उस तहखाने में जाकर किताब पढ़ने लगा। उसे लगने लगा कि लाइब्रेरी की अलमारियां हिल रही हैं और किताबों के पीछे से कोई उसे घूर रहा है। दसवें दिन, ईशान की हालत बिगड़ने लगी। उसका रंग पीला पड़ गया और उसकी आवाज किसी बूढ़े आदमी जैसी हो गई। उसकी आंखों की पुतलियां सफेद होने लगी थीं। उसके प्रोफेसर ने उसे टोका, लेकिन ईशान ने उन पर हमला कर दिया। वह अब पूरी तरह उस किताब के वश में था। एक रात, जब वह किताब का आखिरी पन्ना पढ़ने वाला था, उसे तहखाने में सैकड़ों साये दिखाई दिए। वे साये उन विद्वानों के थे जिन्होंने पहले इस किताब को पढ़ा था। वे सब बिना जीभ के थे और अपनी उंगलियों से हवा में कुछ लिख रहे थे—'मत पढ़ो!' लेकिन ईशान नहीं रुका। जैसे ही उसने आखिरी शब्द पढ़ा, किताब से एक काला धुआं निकला और ईशान के मुंह के अंदर घुस गया। उसका शरीर हवा में उठने लगा और उसकी हड्डियां एक-एक करके टूटने लगीं। वह दर्द से चिल्लाया, लेकिन उसकी आवाज अब उसकी नहीं थी। वह उस शैतान की आवाज थी जिसे उस किताब ने सदियों से कैद कर रखा था। शैतान अब ईशान के शरीर का इस्तेमाल करके दुनिया में वापस आ गया था। अगली सुबह, लाइब्रेरी का वह तहखाना हमेशा के लिए बंद कर दिया गया। प्रोफेसरों को वहां ईशान का चश्मा और उसके कपड़े मिले, लेकिन ईशान कहीं नहीं था। वहां सिर्फ वही काली किताब पड़ी थी, जिसका कवर अब और भी चमकदार और नया लग रहा था। जब प्रोफेसर ने उसे उठाकर देखा, तो किताब के पहले पन्ने पर ईशान की तस्वीर बनी हुई थी, जिसका चेहरा खौफ से भरा था। वह किताब अब ईशान की खाल से मढ़ी हुई थी। आज भी उस यूनिवर्सिटी में यह अफवाह है कि रात के समय लाइब्रेरी से किसी के पन्ने पलटने की आवाज आती है। जो कोई भी उस आवाज का पीछा करता है, वह उस तहखाने की काली किताब का हिस्सा बन जाता है। ईशान अब उस किताब का नया रक्षक बन चुका है, जो अगले शिकार के लिए पन्ने सजा रहा है। पुस्तकालय की शांति अब एक अंतहीन चीख में बदल चुकी है।"  },
   {
     "id": 12,
-    "imageName": "andheri_kothri_ka_raaj",
+    "imageName": "story/banner/andheri_kothri_ka_raaj.webp",
     "title_en": "Secret of The Dark Room",
     "title_hi": "अंधेरी कोठरी का राज",
     "category": "Ghost",
@@ -119,7 +119,7 @@
     "content_hi": "संजय ने गांव में एक पुरानी पुश्तैनी हवेली विरासत में पाई थी। हवेली के बीचों-बीच एक ऐसी कोठरी थी जिसे पीढ़ियों से बंद रखा गया था। संजय के दादाजी ने मरते वक्त कहा था, 'चाहे कुछ भी हो जाए, उस कोठरी का ताला मत खोलना।' संजय शहर का पढ़ा-लिखा लड़का था, उसे लगा कि ये सब पुराने वहम हैं। एक रात, शराब के नशे में उसने कोठरी का भारी ताला तोड़ दिया। जैसे ही दरवाजा खुला, अंदर से एक ऐसी ठंडी हवा निकली जिसने पूरे घर के शीशे चटका दिए। कोठरी के अंदर कुछ नहीं था, बस फर्श पर एक छोटा सा पीतल का दीया जल रहा था। ताज्जुब की बात यह थी कि वहां हवा बहुत तेज थी लेकिन दीये की लौ स्थिर थी। संजय अंदर गया और दीये को बुझाने की कोशिश की, लेकिन लौ और भी तेज हो गई। तभी दीवार पर उसकी परछाई अलग होने लगी। उसकी परछाई दीवार से उतरकर फर्श पर आ गई और संजय का गला पकड़ लिया। संजय की आवाज उसके गले में ही घुट गई। उसने देखा कि कोठरी की दीवारों से इंसानी चेहरे बाहर निकल रहे थे। वे सब उस परिवार के सदस्य थे जो पिछले सौ सालों में गायब हुए थे। वे सब संजय की तरफ देख रहे थे और उनकी आंखों से खून बह रहा था। कोठरी का दरवाजा अपने आप बंद हो गया और दीवारें आपस में सटने लगीं। संजय को महसूस हुआ कि वह कोठरी एक जिंदा जीव है जो इंसानों को खाता है। उसकी परछाई अब पूरी तरह स्वतंत्र थी और कोठरी के अंधेरे में नाच रही थी। अचानक, फर्श से जंजीरें निकलीं और संजय को दीवार से चिपका दिया। एक बूढ़ा साया उसके सामने आया, वह संजय के परदादा थे। उन्होंने दुखी होकर कहा, 'मैंने तुम्हें चेतावनी दी थी, संजय। इस कोठरी में हमारे परिवार का पाप कैद था, जिसे अब तुमने आजाद कर दिया है।' संजय ने देखा कि उसके हाथ-पैर अब धीरे-धीरे पत्थर के होते जा रहे थे। वह उस कोठरी की दीवार का एक हिस्सा बनता जा रहा था। हवेली के बाहर रहने वाले नौकरों ने सुना कि कोठरी के अंदर से संजय के चिल्लाने की आवाजें आ रही थीं, लेकिन कोई भी अंदर जाने की हिम्मत नहीं कर पाया। सुबह जब उन्होंने दरवाजा खोला, तो कोठरी फिर से खाली थी। संजय का कहीं कोई नामो-निशान नहीं था। बस दीवार पर एक नई आकृति उभरी हुई थी जो बिल्कुल संजय जैसी दिखती थी। वह आकृति पत्थर की थी लेकिन उसकी आंखों से असली आंसू गिर रहे थे। गांव वालों ने उस हवेली को हमेशा के लिए सील कर दिया। आज भी लोग कहते हैं कि जब गांव में सन्नाटा होता है, तो उस हवेली से किसी के पत्थर की दीवार पर सिर पटकने की आवाज आती है। कोठरी की वह काली शक्ति अब पूरे गांव पर अपना साया फैला रही है और हर रात कोई न कोई जानवर या इंसान उस हवेली के पास से गायब हो जाता है। संजय अब उस दीवार का हिस्सा बनकर दूसरों को चेतावनी देना चाहता है, लेकिन पत्थर की जुबान कभी बोल नहीं पाती।"  },
   {
     "id": 13,
-    "imageName": "bhootiya_film_ka_aakhri_show",
+    "imageName": "story/banner/bhootiya_film_ka_aakhri_show.webp",
     "title_en": "Last Show of Ghostly Movie",
     "title_hi": "भूतिया फिल्म का आखिरी शो",
     "category": "Ghost",
@@ -132,7 +132,7 @@
  
   {
     "id": 14,
-    "imageName": "aadhi_raat_ki_lift",
+    "imageName": "story/banner/aadhi_raat_ki_lift.webp",
     "title_en": "Aadhi Raat ki Lift",
     "title_hi": "आधी रात की लिफ्ट",
     "category": "Ghost",
@@ -142,7 +142,7 @@
   },
   {
       "id": 15,
-       "imageName": "bloody_well_where_no_one_ever_returned", 
+       "imageName": "story/banner/bloody_well_where_no_one_ever_returned.webp", 
        "title_en": "Bloody Well: Where No One Ever Returned", 
        "title_hi": "खूनी कुआँ: जहाँ कोई वापस नहीं आया", 
        "category": "Ghost", 
@@ -152,7 +152,7 @@
   },
   {
     "id": 16,
-    "imageName": "puraane_kuen_ki_pukaar",
+    "imageName": "story/banner/puraane_kuen_ki_pukaar.webp",
     "title_en": "Puraane Kuen ki Pukaar",
     "title_hi": "पुराने कुएं की पुकार",
     "category": "Ghost",
@@ -163,7 +163,7 @@
 
   {
     "id": 17,
-    "imageName": "andheri_surang_ka_saya",
+    "imageName": "story/banner/andheri_surang_ka_saya.webp",
     "title_en": "Andheri Surang ka Saya",
     "title_hi": "अंधेरी सुरंग का साया",
     "category": "Ghost",
@@ -174,7 +174,7 @@
 
   {
    "id": 18,
-   "imageName": "train_ka_bhoot", 
+   "imageName": "story/banner/train_ka_bhoot.webp", 
    "title_en": "Train ka bhoot", 
    "title_hi": "ट्रेन का भूत", 
    "category": "Ghost",
@@ -186,7 +186,7 @@
 
     {
      "id": 19,
-    "imageName":"demon_of_detroit", 
+    "imageName":"story/banner/demon_of_detroit.webp", 
     "title_en": "Demon of Detroit", 
     "title_hi": "डेट्रॉइट का दानव", 
     "category": "Ghost",
@@ -197,7 +197,7 @@
 
       {
        "id": 20,
-       "imageName": "the_witch_revenge", 
+       "imageName": "story/banner/the_witch_revenge.webp", 
        "title_en": "The Witch's Revenge", 
        "title_hi": "चुड़ैल का बदला", 
        "category": "Ghost", 

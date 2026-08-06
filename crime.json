@@ -2,7 +2,7 @@
 
     {
         "id": 14,
-        "imageName": "the_disappearing_corpse",
+        "imageName": "story/banner/the_disappearing_corpse",
         "title_en": "The Disappearing Corpse",
         "title_hi": "गायब होती लाश",
         "category": "Crime",
@@ -14,7 +14,7 @@
 
     {
         "id": 1,
-        "imageName": "the_midnight_passenger",
+        "imageName": "story/banner/the_midnight_passenger",
         "title_en": "The Midnight Passenger",
         "title_hi": "आधी रात का मुसाफिर",
         "category": "Crime",
@@ -25,7 +25,7 @@
 
     {
         "id": 2,
-        "imageName": "digital_heist",
+        "imageName": "story/banner/digital_heist",
         "title_en": "Digital Heist",
         "title_hi": "डिजिटल डकैती",
         "category": "Crime",

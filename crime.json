@@ -25,7 +25,7 @@
 
     {
         "id": 2,
-        "imageName": "story/banner/digital_heist",
+        "imageName": "story/banner/digital_heist.webp",
         "title_en": "Digital Heist",
         "title_hi": "डिजिटल डकैती",
         "category": "Crime",
@@ -36,7 +36,7 @@
 
     {
         "id": 3,
-        "imageName": "bloody_scene_of_lal_diary",
+        "imageName": "story/banner/bloody_scene_of_lal_diary.webp",
         "title_en": "Bloody scene of Lal Diary",
         "title_hi": "लाल डायरी का खूनी मंजर",
         "category": "Crime",
@@ -47,7 +47,7 @@
 
     {
         "id": 4,
-        "imageName": "the_anonymous_witness",
+        "imageName": "story/banner/the_anonymous_witness.webp",
         "title_en": "The Anonymous Witness",
         "title_hi": "गुमनाम गवाह",
         "category": "Crime",
@@ -57,7 +57,7 @@
     },
     {
         "id": 5,
-        "imageName": "murder_in_a_closed_room_at_midnight",
+        "imageName": "story/banner/murder_in_a_closed_room_at_midnight.webp",
         "title_en": "Murder in a Closed Room at Midnight",
         "title_hi": "बंद कमरे में आधी रात को हुई हत्या",
         "category": "Crime",
@@ -68,7 +68,7 @@
 
     {
         "id": 6,
-        "imageName": "the_masked_killer",
+        "imageName": "story/banner/the_masked_killer.webp",
         "title_en": "The Masked Killer",
         "title_hi": "नकाबपोश हत्यारा",
         "category": "Crime",
@@ -79,7 +79,7 @@
 
     {
         "id": 7,
-        "imageName": "who_was_the_killer",
+        "imageName": "story/banner/who_was_the_killer.webp",
         "title_en": "Who Was the Killer?",
         "title_hi": "वह हत्यारा कौन था?",
         "category": "Crime",
@@ -90,7 +90,7 @@
 
     {
         "id": 8,
-        "imageName": "the_mystery_of_the_missing_girl",
+        "imageName": "story/banner/the_mystery_of_the_missing_girl.webp",
         "title_en": "The Mystery of the Missing Girl",
         "title_hi": "गायब लड़की का रहस्य",
         "category": "Crime",
@@ -101,7 +101,7 @@
 
     {
         "id": 9,
-        "imageName": "serial_killer_game",
+        "imageName": "story/banner/serial_killer_game.webp",
         "title_en": "Serial Killer's Game",
         "title_hi": "सीरियल किलर का खेल",
         "category": "Crime",
@@ -113,7 +113,7 @@
 
     {
         "id": 10,
-        "imageName": "the_killer_still_alive",
+        "imageName": "story/banner/the_killer_still_alive.webp",
         "title_en": "The Killer Still Alive",
         "title_hi": "कातिल अभी ज़िंदा है",
         "category": "Crime",
@@ -124,7 +124,7 @@
 
     {
         "id": 11,
-        "imageName": "truth_written_with_blood",
+        "imageName": "story/banner/truth_written_with_blood.webp",
         "title_en": "Truth Written With Blood",
         "title_hi": "खून से लिखा सच",
         "category": "Crime",
@@ -135,7 +135,7 @@
 
     {
         "id": 12,
-        "imageName": "mastermind_of_bank_robbery",
+        "imageName": "story/banner/mastermind_of_bankrobbery.webp",
         "title_en": "Mastermind of Bank Robbery",
         "title_hi": "बैंक डकैती का मास्टरमाइंड",
         "category": "Crime",
@@ -146,7 +146,7 @@
 
     {
         "id": 13,
-        "imageName": "blood_stained_room",
+        "imageName": "story/banner/blood_stained_room.webp",
         "title_en": "Blood Stained Room",
         "title_hi": "खून से सना कमरा",
         "category": "Crime",

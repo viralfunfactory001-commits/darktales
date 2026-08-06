@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "imageName": "throne_of_skhulls",
+        "imageName": "story/banner/throne_of_skhulls.webp",
         "title_en": "Throne of Skulls",
         "title_hi": "खोपड़ियों का सिंहासन",
         "category": "Demon & Devil",
@@ -11,7 +11,7 @@
     },
     {
         "id": 2,
-        "imageName": "my_inner_demon",
+        "imageName": "story/banner/my_inner_demon.webp",
         "title_en": "My Inner Demon",
         "title_hi": "मेरे भीतर का दानव",
         "category": "Demon & Devil",
@@ -21,7 +21,7 @@
     },
     {
         "id": 3,
-        "imageName": "victim_of_black_magic",
+        "imageName": "story/banner/victim_of_black_magic.webp",
         "title_en": "Victim of Black Magic",
         "title_hi": "काले मंत्र का शिकार",
         "category": "Demon & Devil",
@@ -31,7 +31,7 @@
     },
     {
         "id": 4,
-        "imageName": "blood_thristy_demon",
+        "imageName": "story/banner/blood_thristy_demon.webp",
         "title_en": "Blood Thristy Demon",
         "title_hi": "रक्त प्यासा दानव",
         "category": "Demon & Devil",
@@ -41,7 +41,7 @@
     },
     {
         "id": 5,
-        "imageName": "the_devil's_daughter",
+        "imageName": "story/banner/the_devil's_daughter.webp",
         "title_en": "The Devil's Daughter",
         "title_hi": "शैतान की बेटी",
         "category": "Demon & Devil",
@@ -51,7 +51,7 @@
     },
     {
         "id": 6,
-        "imageName": "the_devil's_last_laugh",
+        "imageName": "story/banner/the_devil's_last_laugh.webp",
         "title_en": "The Devil's Last Laugh",
         "title_hi": "शैतान की आख़िरी हँसी",
         "category": "Demon & Devil",
@@ -61,7 +61,7 @@
     },
     {
         "id": 7,
-        "imageName": "the_devil's_chosen_victim",
+        "imageName": "story/banner/the_devil's_chosen_victim.webp",
         "title_en": "The Devil's Chosen Victim",
         "title_hi": "शैतान का चुना हुआ शिकार",
         "category": "Demon & Devil",
@@ -71,7 +71,7 @@
     },
     {
         "id": 8,
-        "imageName": "the_demon's_cage",
+        "imageName": "story/banner/the_demon's_cage.webp",
         "title_en": "The Demon's Cage",
         "title_hi": "दानव का पिंजरा",
         "category": "Demon & Devil",
@@ -81,7 +81,7 @@
     },
     {
         "id": 9,
-        "imageName": "the_end_of_the_demon",
+        "imageName": "story/banner/the_end_of_the_demon.webp",
         "title_en": "The End of The Demon",
         "title_hi": "दानव का अंत",
         "category": "Demon & Devil",
@@ -91,7 +91,7 @@
     },
     {
         "id": 10,
-        "imageName": "devil's_damned_village",
+        "imageName": "story/banner/devil's_damned_village.webp",
         "title_en": "Devil's Damned Village",
         "title_hi": "शैतान का शापित गांव",
         "category": "Demon & Devil",
